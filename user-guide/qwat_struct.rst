@@ -4,7 +4,7 @@ Structuration du réseau d’Eau Potable sur QWAT
 Ordre de saisie des différents type d’objets
 --------------------------------------------
 
-La mise à jour sur QWAT se fait dans l’ordre suivant:
+La mise à jour des éléments du réseau d'eau potable dans QWAT se fait dans l’ordre suivant:
 
 * 1) Points de construction `qwat_od.node`, pour tous les:
 
