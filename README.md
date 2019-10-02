@@ -43,9 +43,7 @@ and cannot do any damage, feel free to experiment.
 If you want more information about forking you can find it
 [here](https://help.github.com/articles/fork-a-repo/).
 
-You most likely want to make changes to the files in the folder `en`. That's
-where all the real documentation text is located. The documentation is written
-in reStructuredText, a simple syntax to structure the text. You can find
+The documentation is written in reStructuredText, a simple syntax to structure the text. You can find
 information about it in the [reStructuredText
 Primer](http://sphinx-doc.org/rest.html) or by looking at what is already in
 the documentation and make your changes according to it.
